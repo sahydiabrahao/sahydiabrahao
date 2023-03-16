@@ -22,9 +22,11 @@
 ### Projects
 <div>
   <a href="https://sahydi-abrahao.web.app/">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fsahydi-abrahao.web.app%2F">
+    <img src="https://img.shields.io/website?up_message=reactJS&url=https%3A%2F%2Fsahydi-abrahao.web.app%2F">
   </a>
-</div>
+ <a href="https://www.figma.com/file/ScyN0PjyGx1epjStcHwI6D/P%C3%A1gina-Web?t=KVrfxhVb8Bagv4Y0-1">
+    <img src="https://img.shields.io/website?up_message=Figma&url=https%3A%2F%2Fsahydi-abrahao.web.app%2F">
+  </a>
 
 ### Contact
 <div>
