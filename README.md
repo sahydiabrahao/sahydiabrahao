@@ -8,21 +8,12 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />          
 </div>
 
-
 ### My Stats
 <div>
-	
-![Sahydi Abrahao GitHub stats](https://github-readme-stats.vercel.app/api?username=sahydiabrahao&show_icons=true&theme=dark)
+
+![Sahydi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahydiabrahao&show_icons=true&theme=dark)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahydiabrahao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-### My Stats
-<div>
-
-![João Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipeas&show_icons=true&theme=dark)
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipeas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
