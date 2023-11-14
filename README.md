@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm Sahydi Abrahão
+- I'm Sahydi Abrahão.
+- Front-end web developer with React, mobile developer with React Native, and back-end developer using Node.js, TypeScript, MongoDB, and PostgreSQL. Experienced in designing with Clean Architecture and Test-Driven Development (TDD) using the Jest framework.
 
 
 ### Best Technologies
