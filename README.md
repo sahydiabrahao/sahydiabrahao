@@ -6,11 +6,8 @@
 
 ### Best Technologies
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />		
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />  
-	
+Figma, Html, Css, Scss, React, React Native, JavaScript, TypeScript, NodeJS, Jest, MongoDB, PostgreSQL, Firebase.
+
 </div>
 
 ### My Stats
